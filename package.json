@@ -40,11 +40,11 @@
     "connect-history-api-fallback": "^1.6.0",
     "debug": "^4.1.1",
     "del": "^4.1.1",
-    "express": "^4.16.4",
+    "express": "^4.17.0",
     "html-entities": "^1.2.1",
     "http-proxy-middleware": "^0.19.1",
     "import-local": "^2.0.0",
-    "internal-ip": "^4.2.0",
+    "internal-ip": "^4.3.0",
     "ip": "^1.1.5",
     "killable": "^1.0.1",
     "loglevel": "^1.6.1",
@@ -105,7 +105,7 @@
     "ws": "^6.2.1"
   },
   "peerDependencies": {
-    "webpack": "^4.0.0"
+    "webpack": "^4.31.0"
   },
   "author": "Tobias Koppers @sokra",
   "bugs": "https://github.com/webpack/webpack-dev-server/issues",
